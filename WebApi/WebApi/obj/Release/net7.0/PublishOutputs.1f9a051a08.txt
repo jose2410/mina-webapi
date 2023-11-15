@@ -1,0 +1,13 @@
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\WebApi.exe
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\WebApi.dll
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\WebApi.deps.json
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\WebApi.runtimeconfig.json
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\WebApi.pdb
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\AWSSDK.Core.dll
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\AWSSDK.S3.dll
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jose_\source\repos\WebApi\WebApi\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
